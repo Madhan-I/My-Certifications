@@ -5,5 +5,5 @@
  - Well most you would think, I am just following the foot steps of many people you bet I am and I will follow and eventually one day.
  - I will have the knowlegde to work in cloud as well.
 
- - Thanks,
+ Thanks,
  - Madhan
