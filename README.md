@@ -8,11 +8,11 @@
  Thanks,
  Madhan
  
-[GitLab 101](https://github.com/Madhan-I/My-Certifications/blob/master/GitLab%20101%20Certificate_Madhan%20I.pdf)
+[GitLab 101](https://github.com/Madhan-I/My-Certifications/files/5281901/GitLab.101.Certificate_Madhan.I.pdf)
 
 
 # Coursera Certification
 1. [Google Cloud Platform Fundamentals: Core Infrastructure](https://coursera.org/share/7d439ed3681038c9ca7edd69ef7510c6)
 
-# Alibaba Clous
+# Alibaba Cloud
 [ACA Cloud Native Certification](https://user-images.githubusercontent.com/55656091/94251010-9bcac080-ff3f-11ea-81f0-93ae57c56e50.png)
