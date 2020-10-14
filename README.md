@@ -16,6 +16,8 @@
 
 [ACA Cloud Computing Certification](https://user-images.githubusercontent.com/55656091/95766024-4ed14300-0cd0-11eb-89a5-def83eb1b222.png)
 
+[ACA Cloud Security Certification](https://user-images.githubusercontent.com/55656091/95969497-6f161480-0e2c-11eb-952a-0d841f60a4c6.png)
+
 
 # Coursera Certification
 1. [Google Cloud Platform Fundamentals: Core Infrastructure](https://coursera.org/share/7d439ed3681038c9ca7edd69ef7510c6)
