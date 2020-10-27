@@ -1,24 +1,40 @@
  ##AWS SYLLABUS
 
-Course Objectives:
-
 | Course Objectives:                                                                   | Author(s)                                        |
 | :----------------------------------------------------------------------------------- | :----------------------------------------------- |
 | * Compute (EC2)	                                                               |                                                  |
 | * Storage (S3, EBS, EFS, Storage Gateway and Snowball)	                       |                                                  |
-| * Database (RDS and DynamoDB)	                                                       |                                                  |
+| * Database (RDS and DynamoDB)	                                                       |  Madhan                                          |
 | * Network and Content Delivery (Route 53, VPC and Cloud Front)                       |                                                  |
 | * Management Tools (Cloud Watch, Cloud Formation and Cloud Trail)                    |                                                  |
 | * Security & Identity Compliance (IAM, Trusted Advisor, Config and Inspector)        |                                                  |
 | * Messaging (SNS, SQS and SES)                                                       |                                                  |
 | * Database (RDS and DynamoDB)	                                                       |                                                  |
 
+| Lesson 1: Overview of Cloud Computing and AWS                                       | Author(s)                                        |
+| :---------------------------------------------------------------------------------- | :----------------------------------------------- |
+| * What is cloud computing                                                           |                                                  |
+| * Cloud implementation models                                                       |                                                  |
+| * Concerns of cloud computing                                                       |                                                  |
+| * Description of AWS                                                                |                                                  |
+| * History and Evolution of AWS                                                      |                                                  |
+| * Overview of AWS Products and Services                                             |                                                  |
+| *  AWS Share Responsibility/Security Model                                          |                                                  |
+| *  AWS Pricing                                                                      |                                                  |
 
 
+| Lesson 2: Designing highly available, cost-efficient, fault-tolerant, scalable systems | Author(s)                                        |
+| :------------------------------------------------------------------------------------- | :----------------------------------------------- |
+| * How to Design Cloud Services                                                         |                                                  |
+| * Planning and Designing                                                               |                                                  |
+| * Monitoring and Logging                                                               |                                                  |
+| * Hybrid IT architectures                                                              |                                                  | 
+| * Practice Assignment: Designing Hybrid Storage                                        |                                                  | 
 
 
-
-
+|  * Overview of AWS Products and Services                                               |                                                  |
+|  *  AWS Share Responsibility/Security Model                                            |                                                  |
+|  *  AWS Pricing                                                                        |                                                  |
 
 
 | Project Code | Project Details                                                                      | Difficulty | CSP   | Author(s)                                        |
