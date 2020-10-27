@@ -46,9 +46,34 @@
 |  • Creating an IAM User                                                            |                                                  |
 |  • Creating an IAM Group                                                           |                                                  |
 |  • Creating an IAM Role                                                            |                                                  |
-|  • SEnabling Multi-Factor Authentication (MFA)                                     |                                                  |
+|  • Enabling Multi-Factor Authentication (MFA)                                      |                                                  |
 |  • Setting up password police                                                      |                                                  |
 
+
+| Lesson 4: Amazon Virtual Private Cloud (VPC)                                    | Author(s)                                        |
+| :-------------------------------------------------------------------------------| :----------------------------------------------- |
+| * Amazon VPC Overview                                                           |                                                  |
+| * Amazon VPC                                                                    |                                                  |
+| * Amazon VPC Overview                                                           |                                                  |
+| * Amazon VPC                                                                    |                                                  |
+| * IP Addresses                                                                  |                                                  |
+| * Subnets                                                                       |                                                  |
+| * Internet Gateway                                                              |                                                  |
+| * Route Tables                                                                  |                                                  |
+| * NAT Devices                                                                   |                                                  |
+| * Security Groups                                                               |                                                  |
+| * Network ACL’s                                                                 |                                                  |
+| * VPC Best Practices                                                            |                                                  |
+| * Practice Assignment:                                                          |                                                  |
+|  • Designing a Custom VPC                                                       |                                                  |
+|  • Creating a custom VPC                                                        |                                                  |
+|  • Creating an Elastic IP Address                                               |                                                  |
+|  • Creating Subnets                                                             |                                                  |
+|  • Creating Internet Gateways                                                   |                                                  |
+|  • Creating Route Tables                                                        |                                                  |
+|  • Creating a NAT Gateway                                                       |                                                  |
+|  • Creating a Security Group                                                    |                                                  |
+|  • Network ACL Overview                                                         |                                                  |
 
 | * History and Evolution of AWS                                                      |                                                  |
 | * Overview of AWS Products and Services                                             |                                                  |
