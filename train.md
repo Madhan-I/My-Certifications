@@ -2,11 +2,24 @@
 
 Course Objectives:
 
-| Topic Details                                                                        | Author(s)                                        |
+| Course Objectives:                                                                   | Author(s)                                        |
 | :----------------------------------------------------------------------------------- | :----------------------------------------------- |
 | * Compute (EC2)	                                                               |                                                  |
 | * Storage (S3, EBS, EFS, Storage Gateway and Snowball)	                       |                                                  |
 | * Database (RDS and DynamoDB)	                                                       |                                                  |
+| * Network and Content Delivery (Route 53, VPC and Cloud Front)                       |                                                  |
+| * Management Tools (Cloud Watch, Cloud Formation and Cloud Trail)                    |                                                  |
+| * Security & Identity Compliance (IAM, Trusted Advisor, Config and Inspector)        |                                                  |
+| * Messaging (SNS, SQS and SES)                                                       |                                                  |
+| * Database (RDS and DynamoDB)	                                                       |                                                  |
+
+
+
+
+
+
+
+
 
 | Project Code | Project Details                                                                      | Difficulty | CSP   | Author(s)                                        |
 | :----------- | :----------------------------------------------------------------------------------- | :--------- | :---- | :----------------------------------------------- |
