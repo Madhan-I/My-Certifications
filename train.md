@@ -2,11 +2,11 @@
 
 Course Objectives:
 
-| Project Code | Project Details                                                                      | Difficulty | CSP   | Author(s)                                        |
-| :----------- | :----------------------------------------------------------------------------------- | :--------- | :---- | :----------------------------------------------- |
-| SEC01-AWS200 | * Compute (EC2)	                                                              | Level 200  | AWS   | [Andrew Brown](https://twitter.com/andrewbrown)  |
-| SEC01-AZ200  | * Storage (S3, EBS, EFS, Storage Gateway and Snowball)	                              | 200  | Azure | [Gwyneth Peña S.](https://twitter.com/madebygps) |
-| SEC01-GCP100 | * Database (RDS and DynamoDB)	                                                      | Level 100  | GCP   |                                                  |
+| Topic Details                                                                        | Author(s)                                        |
+| :----------------------------------------------------------------------------------- | :----------------------------------------------- |
+| * Compute (EC2)	                                                               |                                                  |
+| * Storage (S3, EBS, EFS, Storage Gateway and Snowball)	                       |                                                  |
+| * Database (RDS and DynamoDB)	                                                       |                                                  |
 
 | Project Code | Project Details                                                                      | Difficulty | CSP   | Author(s)                                        |
 | :----------- | :----------------------------------------------------------------------------------- | :--------- | :---- | :----------------------------------------------- |
