@@ -10,10 +10,10 @@
  
  [Credly](https://www.credly.com/users/madhan-i/badges) 
  
-#Google
+# Google
  [Qwiklabs](https://www.qwiklabs.com/public_profiles/f79f24ba-fe04-4792-b301-a8b152fd4dd5)
 
-#Skill Front
+# Skill Front
  [Certifications](https://www.skillfront.com/Badges/58549251265576)
  
 # GitLab
